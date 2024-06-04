@@ -1,0 +1,1 @@
+import{c as a,a as t,R as o,o as s}from"./DIqBfWd8.js";const r={class:"container ma-2"},_={__name:"about",setup(c){return(e,n)=>(s(),a("div",null,[t("div",r,[o(e.$slots,"default")])]))}};export{_ as default};

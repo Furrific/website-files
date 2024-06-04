@@ -1,0 +1,1 @@
+import o from"./oNexaNtN.js";import{f as t,o as r,c as n,d as m,b as c}from"./DIqBfWd8.js";import"./BmBOhIV3.js";import"./DjYh3Nvj.js";import"./C-v3KzvZ.js";import"./IsuXEMpP.js";import"./DV8P29ZF.js";import"./CtPwUkDP.js";const B=t({__name:"index",setup(p){return(a,i)=>{const e=o;return r(),n("div",null,[m(" Test "),c(e)])}}});export{B as default};
