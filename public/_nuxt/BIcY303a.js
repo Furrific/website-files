@@ -1,0 +1,1 @@
+import{_ as s,c as t,r as o,a,o as r}from"./DQYYJQ75.js";const c={},l={class:"flex flex-col h-lvh"},n={class:"container pa-2 mx-auto flex-grow prose"};function d(e,f){return r(),t("div",l,[o(e.$slots,"header"),a("div",n,[o(e.$slots,"default")]),o(e.$slots,"footer")])}const i=s(c,[["render",d]]);export{i as default};
