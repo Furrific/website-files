@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as a,r as o,a as r}from"./CSPEqbrA.js";const c={},l={class:"flex flex-col h-lvh"},n={class:"container pa-2 mx-auto flex-grow prose"};function d(e,f){return t(),a("div",l,[o(e.$slots,"header"),r("div",n,[o(e.$slots,"default")]),o(e.$slots,"footer")])}const i=s(c,[["render",d]]);export{i as default};
